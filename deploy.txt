@@ -1,1 +1,2 @@
-https://fuzzy-load-forecasting-alvin-ihsan-indah.streamlit.app
+LINK GUI: https://fuzzy-load-forecasting-alvin-ihsan-indah.streamlit.app
+LINK GITHUB: https://github.com/AlvinHarist/fuzzy-load-forecasting
